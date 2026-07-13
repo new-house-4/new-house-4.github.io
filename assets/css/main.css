@@ -24,7 +24,7 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
-	
+
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -3991,10 +3991,10 @@ input, select, textarea {
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.75)), url("../../images/dodgeball.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.75)), url("../../images/dodgeball.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.75)), url("../../images/dodgeball.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.75)), url("../../images/dodgeball.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.75)), url("../../images/palentines_group.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.75)), url("../../images/palentines_group.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.75)), url("../../images/palentines_group.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.75)), url("../../images/palentines_group.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -4008,10 +4008,10 @@ input, select, textarea {
 
 	:root {
 		--card-grad: linear-gradient(217deg, rgba(75, 56, 66,0.8), rgba(255,0,0,0) 70.71%),
-				              linear-gradient(127deg, rgba(145, 146, 162,0.8), rgba(0,255,0,0) 70.71%),            
+				              linear-gradient(127deg, rgba(145, 146, 162,0.8), rgba(0,255,0,0) 70.71%),
 							  linear-gradient(336deg, rgba(52, 61, 63,.8), rgba(0,0,255,0) 70.71%);
 		--dark-grad: linear-gradient(217deg, #221d1c, #343d3f);
-		
-				              
-	
+
+
+
 	  }
